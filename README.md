@@ -13,14 +13,6 @@
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Stats</h3>
-<p align="left">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mehul-Ag20&show_icons=true&card_width=320&theme=radical" />
-    <br>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Ag20&langs_count=5&layout=donut&theme=radical" />
-    <br>
-</p>
-
 <h3 align="left">Reach me at</h3>
 <p align="left">
     <a href="mailto:mehul22295@iiitd.ac.in" target="_blank">
